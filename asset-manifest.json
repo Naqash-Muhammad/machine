@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vendinmachine/static/css/main.9851ee35.css",
+    "main.js": "/vendinmachine/static/js/main.fb56fcac.js",
+    "static/js/787.3810cdbd.chunk.js": "/vendinmachine/static/js/787.3810cdbd.chunk.js",
+    "static/media/n.jpg": "/vendinmachine/static/media/n.1f1475f3c5314d682fa8.jpg",
+    "index.html": "/vendinmachine/index.html",
+    "main.9851ee35.css.map": "/vendinmachine/static/css/main.9851ee35.css.map",
+    "main.fb56fcac.js.map": "/vendinmachine/static/js/main.fb56fcac.js.map",
+    "787.3810cdbd.chunk.js.map": "/vendinmachine/static/js/787.3810cdbd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9851ee35.css",
+    "static/js/main.fb56fcac.js"
+  ]
+}
